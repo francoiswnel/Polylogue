@@ -19,7 +19,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 
 Download the latest release:
 
-* [Patch Storage](url)
+* [Patch Storage]() (Link coming soon.)
 * [GitHub](https://github.com/francoiswnel/Polylogue/releases)
 
 Installation instructions:
@@ -30,63 +30,68 @@ Installation instructions:
 
 # Discussion
 
-Please leave feedback or ask questions in the [Critter & Guitari forum thread](url), or [create an issue](https://github.com/francoiswnel/Polylogue/issues) on GitHub.
+Please leave feedback or ask questions in the [Critter & Guitari forum thread]() (Link coming soon.), or [create an issue](https://github.com/francoiswnel/Polylogue/issues) on GitHub.
 
 # Menu Guide
 
-Page 1: VCO 1
-
-1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine, 4. Noise.
-2. Shape: Square wave duty cycle.
-3. Octave: Keyboard transpose, -3 to +1 octaves.
-
-Page 2: VCO 2
-
-1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine, 4. Noise.
-2. Shape: Square wave duty cycle.
-3. Octave: Offset from VCO 1, -2 to +2 octaves.
-4. Detune: Continuous pitch adjustment.
-
-Page 3: Mix
-
 1. VCO 1
+
+    1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine, 4. Noise.
+    2. Shape: Square wave duty cycle.
+    3. Octave: Keyboard transpose, -3 to +1 octaves.
+
 2. VCO 2
-3. Line In
-4. Drive
 
-Page 4: VCF
+    1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine, 4. Noise.
+    2. Shape: Square wave duty cycle.
+    3. Octave: Offset from VCO 1, -2 to +2 octaves.
+    4. Detune: Continuous pitch adjustment.
 
-1. Cutoff: High-pass filter with a peak frequency ranging from 100 to 5000 Hz.
-2. Resonance: Unstable and self-oscillating above about 90%.
+3. Mix
 
-Page 5: EG
+    1. VCO 1
+    2. VCO 2
+    3. Line In
+    4. Drive
 
-1. Attack: Ramp up to peak volume over 0-5000 ms.
-2. Decay: Ramp down to sustain volume over 0-5000 ms.
-3. Sustain: Percentage of peak volume.
-4. Release: Ramp down to zero volume over 0-5000 ms after releasing the note.
+4. VCF
 
-Page 6: EG Targets
+    1. Cutoff: High-pass filter with a peak frequency ranging from 100 to 5000 Hz.
+    2. Resonance: Unstable and self-oscillating above about 90%.
 
-1. VCO 1 Pitch: Modulate the pitch of the primary oscillator.
-2. VCO 2 Pitch: Modulate the pitch of the secondary oscillator.
-3. VCF Cutoff: Modulate the cutoff frequency of the filter.
-4. VCA: Modulate the output of the voice.
+5. EG
 
-Page 7: LFO
+    1. Attack: Ramp up to peak volume over 0-5000 ms.
+    2. Decay: Ramp down to sustain volume over 0-5000 ms.
+    3. Sustain: Percentage of peak volume.
+    4. Release: Ramp down to zero volume over 0-5000 ms after releasing the note.
 
-1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine.
-2. Rate: 0 to 20 Hz.
+6. EG Targets
 
-Page 8: LFO Targets
+    1. VCO 1 Pitch: Modulate the pitch of the primary oscillator.
+    2. VCO 2 Pitch: Modulate the pitch of the secondary oscillator.
+    3. VCF Cutoff: Modulate the cutoff frequency of the filter.
+    4. VCA: Modulate the output of the voice.
 
-1. VCO 1 Pitch: Modulate the pitch of the primary oscillator.
-2. VCO 2 Pitch: Modulate the pitch of the secondary oscillator.
-3. VCF Cutoff: Modulate the cutoff frequency of the filter.
+7. LFO
 
-Page 9: Utility
+    1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine.
+    2. Rate: 0 to 20 Hz.
 
-1. Pitch Scale: Adjust the scale of the pitch target knobs.
+8. LFO Targets
+
+    1. VCO 1 Pitch: Modulate the pitch of the primary oscillator.
+    2. VCO 2 Pitch: Modulate the pitch of the secondary oscillator.
+    3. VCF Cutoff: Modulate the cutoff frequency of the filter.
+
+9. Utility
+
+    1. Pitch Scale: Adjust the scale of the pitch target knobs.
+
+# Credits
+
+* KontrolModule by [Mark Harris aka TheTechnobear](https://github.com/TheTechnobear).
+* Sequencer 2 by Critter & Guitari.
 
 # Pure Data Screenshots
 
