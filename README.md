@@ -20,7 +20,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 Download the latest release:
 
 * [Patch Storage](url)
-* [GitHub](url)
+* [GitHub](https://github.com/francoiswnel/Polylogue/releases)
 
 Installation instructions:
 
@@ -30,7 +30,7 @@ Installation instructions:
 
 # Discussion
 
-Please leave feedback or ask questions in the [Critter & Guitari forum thread](url), or [create an issue](url) on GitHub.
+Please leave feedback or ask questions in the [Critter & Guitari forum thread](url), or [create an issue](https://github.com/francoiswnel/Polylogue/issues) on GitHub.
 
 # Menu Guide
 
@@ -92,48 +92,48 @@ Page 9: Utility
 
 Main:
 
-![main.pd](url)
+![main.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/main.png)
 
 Voice:
 
-![voice.pd](url)
+![voice.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/voice.png)
 
 VCO 1:
 
-![vco1.pd](url)
+![vco1.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/vco1.png)
 
 VCO 2:
 
-![vco2.pd](url)
+![vco2.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/vco2.png)
 
 VCO:
 
-![vco.pd](url)
+![vco.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/vco.png)
 
 Saw Wave:
 
-![saw.pd](url)
+![saw.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/saw.png)
 
 Triangle Wave:
 
-![triangle.pd](url)
+![triangle.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/triangle.png)
 
 Square Wave:
 
-![square.pd](url)
+![square.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/square.png)
 
 EG:
 
-![eg.pd](url)
+![eg.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/eg.png)
 
 LFO:
 
-![lfo.pd](url)
+![lfo.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/lfo.png)
 
 VCF:
 
-![vcf.pd](url)
+![vcf.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/vcf.png)
 
 Mixer:
 
-![mixer.pd](url)
+![mixer.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/mixer.png)
