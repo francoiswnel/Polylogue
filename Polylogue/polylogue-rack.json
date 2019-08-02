@@ -1,0 +1,39 @@
+{
+    "polylogue": {
+        "module": "polylogue",
+        "presets": {
+            "Init": {
+                "vco1_wave": 0,
+                "vco1_shape": 0,
+                "vco1_transpose": -1,
+                "vco1_eg_intensity": 0,
+                "vco1_lfo_intensity": 0,
+                "vco2_wave": 0,
+                "vco2_shape": 0,
+                "vco2_offset": 0,
+                "vco2_detune": 0,
+                "vco2_eg_intensity": 0,
+                "vco2_lfo_intensity": 0,
+                "mix_vco1": 100,
+                "mix_vco2": 100,
+                "mix_aux": 0,
+                "mix_drive": 0,
+                "vcf_cutoff": 5000,
+                "vcf_resonance": 0,
+                "vcf_eg_intensity": 0,
+                "vcf_lfo_intensity": 0,
+                "eg_attack": 10,
+                "eg_decay": 10,
+                "eg_sustain": 100,
+                "eg_release": 10,
+                "lfo_wave": 0,
+                "lfo_rate": 0,
+                "vca_eg_intensity": 100,
+                "cfg_pitch_scale": 1000
+            }
+        },
+        "midi-mapping": {
+            "cc": {}
+        }
+    }
+}
