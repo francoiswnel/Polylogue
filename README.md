@@ -1,6 +1,6 @@
 # Polylogue
 
-Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Critter & Guitari Organelle](https://www.critterandguitari.com/organelle), inspired by the workflow of the [Korg Monologue](https://www.korg.com/us/products/synthesizers/monologue/) and the [Korg Volca Keys](https://www.korg.com/us/products/dj/volca_keys/).
+Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Critter & Guitari Organelle](https://www.critterandguitari.com/organelle), inspired by the workflows of the [Korg Monologue](https://www.korg.com/us/products/synthesizers/monologue/) and the [Korg Volca Keys](https://www.korg.com/us/products/dj/volca_keys/).
 
 # Features
 
@@ -14,6 +14,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 * The secondary oscillator can be offset up to two octaves up and down from the primary oscillator, as well as detuned about another two-thirds of an octave up and down.
 * Four channel mixer for adjusting the levels of the two oscillators, line in, and a feedback loop drive.
 * Sequencing with Critter & Guitari's Sequencer 2.
+* Polyphonic portamento.
 
 # Download
 
@@ -26,7 +27,7 @@ Installation instructions:
 
 1. Copy the `Polylogue.zop` file to your patches directory on your SD card or USB drive.
 2. From the Organelle menu, reload the storage.
-3. Navigate to the patch and select `Install Polylogue`.
+3. Navigate to the patch and select `Install Polylogue.zop`.
 
 # Discussion
 
@@ -51,8 +52,8 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread]()
 
     1. VCO 1
     2. VCO 2
-    3. Line In
-    4. Drive
+    3. Line In: Audio input mixed in between the VCOs and the filter stages.
+    4. Drive: Audio output mixed in between the VCOs and the filter stages.
 
 4. VCF
 
@@ -66,7 +67,7 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread]()
     3. Sustain: Percentage of peak volume.
     4. Release: Ramp down to zero volume over 0-5000 ms after releasing the note.
 
-6. EG Targets
+6. EG Target
 
     1. VCO 1 Pitch: Modulate the pitch of the primary oscillator.
     2. VCO 2 Pitch: Modulate the pitch of the secondary oscillator.
@@ -78,15 +79,16 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread]()
     1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine.
     2. Rate: 0 to 20 Hz.
 
-8. LFO Targets
+8. LFO Target
 
     1. VCO 1 Pitch: Modulate the pitch of the primary oscillator.
     2. VCO 2 Pitch: Modulate the pitch of the secondary oscillator.
     3. VCF Cutoff: Modulate the cutoff frequency of the filter.
 
-9. Utility
+9. Config
 
-    1. Pitch Scale: Adjust the scale of the pitch target knobs.
+    1. Portamento: Adjust the note glide time. Turns off at 0%.
+    2. Pitch Scale: Adjust the scale of the pitch target knobs.
 
 # Credits
 

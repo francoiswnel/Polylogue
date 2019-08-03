@@ -160,7 +160,7 @@
             "Attack",
             0,
             5000,
-            10
+            5
         ],
         [
             "time",
@@ -168,7 +168,7 @@
             "Decay",
             0,
             5000,
-            10
+            5
         ],
         [
             "pct",
@@ -184,7 +184,7 @@
             "Release",
             0,
             5000,
-            10
+            5
         ],
         [
             "int",
@@ -216,7 +216,15 @@
             "Pitch Scale",
             500,
             5000,
-            1000
+            500
+        ],
+        [
+            "pct",
+            "cfg_portamento",
+            "Portamento",
+            0,
+            100,
+            0
         ]
     ],
     "pages": [
@@ -298,6 +306,7 @@
             "pg_config",
             "Config",
             [
+                "cfg_portamento",
                 "cfg_pitch_scale"
             ]
         ]
