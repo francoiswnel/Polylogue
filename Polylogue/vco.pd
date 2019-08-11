@@ -31,7 +31,7 @@
 #X msg 626 308 \$1;
 #X msg 679 308 \$1;
 #X obj 182 335 saw;
-#X obj 183 265 phasor~;
+#X obj 183 281 phasor~;
 #X obj 240 211 inlet;
 #X text 240 186 PORTAMENTO;
 #X obj 183 238 portamento;
@@ -74,3 +74,4 @@
 #X connect 32 0 21 0;
 #X connect 33 0 35 1;
 #X connect 35 0 32 0;
+#X connect 35 0 16 0;

@@ -77,7 +77,7 @@ dd50f8c8b6ad730eeabfe93676d4534238514970  Polylogue/sequences/seq4y.txt
 92ccec7cd8ff08677da9cb3833ee9e42a23b9a93  Polylogue/sequences/seq0x.txt
 1f5918500aa3e79304cef9fab6823d8d4e34ac40  Polylogue/sequences/seq10y.txt
 0c4e57b60e19793989cb764e1723b64b65fb7ff3  Polylogue/slot.txt
-c735ff93c74cf2847218b8d92025e7614815c875  Polylogue/vco.pd
+dd66e8c02c3328f21a90fa087e83e06d5c72d748  Polylogue/vco.pd
 fe81c75a09cf3d0935d32ec9bb77dbba21927e9d  Polylogue/saw.pd
 cfc96af7082051c8967581b4028cf19c0127f050  Polylogue/square.pd
 6c6053b8cf598ed6051f5d7f37d015f748ccbd1e  Polylogue/libportaudio.so
