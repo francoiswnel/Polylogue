@@ -4,7 +4,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 
 # Features
 
-* Six voice polyphony with two oscillators per voice.
+* Six voice polyphony on the Organelle M, and four voice polyphony on the Organelle 1, with two oscillators per voice.
 * Each voice is fully articulated, featuring its own envelope generator, low-frequency oscillator, filter, and amplifier.
 * Five wave shapes per oscillator: Saw, triangle, square, cosine, and noise.
 * Pulse width modulation through an adjustable duty cycle for the square wave oscillators.

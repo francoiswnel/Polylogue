@@ -1,5 +1,6 @@
 1ba874141380f45bca595c71a4e996073d724f5b  Polylogue/adsr.pd
 aa36ab4314cd5f59356dcc6d4a4414bc1527e237  Polylogue/knobs.txt
+184e595b10c119a1946b4f0de6074a8f66d826ae  Polylogue/deploy.sh
 4a451fb4702edf9092a4f62de3abd102085e0d99  Polylogue/libcjson.so
 dadd819d76b19e1cf703816a585634841cc63f8c  Polylogue/main.pd
 c9d393ad0eef5989bfd5ea404635390f21547649  Polylogue/vcf.pd
@@ -7,6 +8,7 @@ d7c6fe2d0d796d951abd78e764637f827273fbf0  Polylogue/vco1.pd
 2d80f1e5134c2f089295f6b193d186272364edcd  Polylogue/libmec-utils.so
 eccd86d84049c5d3c10cc2eec82ba50e7fdbd81c  Polylogue/lfo.pd
 d6494f237e369595d633bece01a870663ebf9c4a  Polylogue/triangle.pd
+bcdb5963f2aee7d92b384c2593121aca35a68a01  Polylogue/main4.pd
 08519f78a2f6b03ae583a0e192830b0356aa2d21  Polylogue/mixer.pd
 4e57cf7d13452f91933daf76865dd3a13a2878b6  Polylogue/KontrolRack.pd_linux
 ba21a03b2b29de90d55c7076c8c3e240c07e5cf5  Polylogue/CG-Pd-Library-Local/README.md
@@ -39,6 +41,7 @@ e69c9e9b36c22f3c98cd6ecbcf1e75d9c5cf59b4  Polylogue/CG-Pd-Library-Local/external
 16331e867599d627832ec853a86d264c0310b3bd  Polylogue/CG-Pd-Library-Local/externals/abl_link~.pd_linux.orig
 99f8144fd698d99e033fd6058edf55ce3639f817  Polylogue/CG-Pd-Library-Local/metronome/metronome360.pd
 5c42b894a4a526c443eb22f0bb83e0c9e71c8f29  Polylogue/libmec-kontrol-api.so
+dadd819d76b19e1cf703816a585634841cc63f8c  Polylogue/main6.pd
 21bcebefc57ecf179f498653c864932a89c23b8e  Polylogue/eg.pd
 4c82337679bca56739f9f14862d0d94ec45b92d5  Polylogue/KontrolModule.pd_linux
 1fc9ee740912468df97af6a3abab02b2c811d588  Polylogue/polylogue-rack.json
