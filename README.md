@@ -13,7 +13,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 * Per-voice low-frequency oscillator with saw, triangle, square, and cosine wave shapes, which can simultaneously modulate both oscillator pitches and the filter cutoff.
 * The secondary oscillator can be offset up to two octaves up and down from the primary oscillator, as well as detuned about another two-thirds of an octave up and down.
 * Four channel mixer for adjusting the levels of the two oscillators, line in, and a feedback loop drive.
-* Sequencing with Critter & Guitari's Sequencer 2.
+* Sequencing with Critter & Guitari's Sequencer 3.
 * Polyphonic portamento.
 
 # Download
@@ -21,7 +21,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 Download the latest release:
 
 * [Patch Storage]() (Link coming soon.)
-* [GitHub](https://github.com/francoiswnel/Polylogue/releases)
+* [GitHub](https://github.com/francoiswnel/Polylogue/releases/latest)
 
 Installation instructions:
 
@@ -93,7 +93,7 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread]()
 # Credits
 
 * KontrolModule by [Mark Harris aka TheTechnobear](https://github.com/TheTechnobear).
-* Sequencer 2 by Critter & Guitari.
+* Sequencer 3 by Critter & Guitari.
 
 # Pure Data Screenshots
 
@@ -128,6 +128,10 @@ Triangle Wave:
 Square Wave:
 
 ![square.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/square.png)
+
+Portamento:
+
+![portamento.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/portamento.png)
 
 EG:
 
