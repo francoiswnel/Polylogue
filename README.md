@@ -20,7 +20,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 
 Download the latest release:
 
-* [Patch Storage]() (Link coming soon.)
+* [Patch Storage](https://patchstorage.com/polylogue/)
 * [GitHub](https://github.com/francoiswnel/Polylogue/releases/latest)
 
 Installation instructions:
@@ -31,7 +31,7 @@ Installation instructions:
 
 # Discussion
 
-Please leave feedback or ask questions in the [Critter & Guitari forum thread]() (Link coming soon.), or [create an issue](https://github.com/francoiswnel/Polylogue/issues) on GitHub.
+Please leave feedback or ask questions in the [Critter & Guitari forum thread](https://forum.critterandguitari.com/t/polylogue-polyphonic-analogue-synthesizer/4725), or [create an issue](https://github.com/francoiswnel/Polylogue/issues) on GitHub.
 
 # Menu Guide
 
@@ -94,6 +94,7 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread]()
 
 * KontrolModule by [Mark Harris aka TheTechnobear](https://github.com/TheTechnobear).
 * Sequencer 3 by Critter & Guitari.
+* ADSR from the [clds](https://patchstorage.com/clds/) port by Mark Harris.
 
 # Pure Data Screenshots
 
