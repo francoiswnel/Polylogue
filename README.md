@@ -7,7 +7,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 * Six voice polyphony on the Organelle M, and four voice polyphony on the Organelle 1, with two oscillators per voice.
 * Each voice is fully articulated, featuring its own envelope generator, low-frequency oscillator, filter, and amplifier.
 * Five wave shapes per oscillator: Saw, triangle, square, cosine, and noise.
-* Pulse width modulation through an adjustable duty cycle for the square wave oscillators.
+* Wave shaping for all four major wave shapes: Saw and triangle waves transform to shapes similar to the Korg Monologue's fully transformed wave shapes, pulse width modulation for the square wave, and frequency modulation for the cosine wave. The saw wave transformation implements Formula 26 from Section 3.5 of [Phaseshaping Oscillator Algorithms For Musical Sound Synthesis](https://aaltodoc.aalto.fi/bitstream/handle/123456789/7747/publication1.pdf) by Jari Kleimola, Victor Lazzarini, Joseph Timoney, and Vesa Välimäki.
 * A resonant filter which self-oscillates.
 * ADSR-style envelope generator which can simultaneously target the amplifier, both oscillator pitches, and the filter cutoff.
 * Per-voice low-frequency oscillator with saw, triangle, square, and cosine wave shapes, which can simultaneously modulate both oscillator pitches and the filter cutoff.
@@ -38,7 +38,7 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread](h
 1. VCO 1
 
     1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine, 4. Noise.
-    2. Shape: Square wave duty cycle.
+    2. Shape: Transforms the basic wave shape.
     3. Octave: Keyboard transpose, -3 to +1 octaves.
 
 2. VCO 2
@@ -129,6 +129,10 @@ Triangle Wave:
 Square Wave:
 
 ![square.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/square.png)
+
+Cosine Wave:
+
+![cosine.pd](https://raw.githubusercontent.com/francoiswnel/Polylogue/master/Screenshots/cosine.png)
 
 Portamento:
 

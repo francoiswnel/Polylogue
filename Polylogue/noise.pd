@@ -1,0 +1,22 @@
+#N canvas 179 405 536 607 10;
+#X obj 196 468 outlet~;
+#X obj 411 220 switch~;
+#X obj 411 191 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 411 161 inlet;
+#X text 411 133 SWITCH;
+#N canvas 0 50 450 250 (subpatch) 0;
+#X array \$0noise 300 float 0;
+#X coords 0 1 299 -1 200 140 1 0 0;
+#X restore 310 438 graph;
+#X obj 29 438 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 0
+1;
+#X obj 29 467 metro 100;
+#X obj 196 438 noise~;
+#X obj 29 562 tabwrite~ \$0noise;
+#X connect 2 0 1 0;
+#X connect 3 0 2 0;
+#X connect 6 0 7 0;
+#X connect 7 0 9 0;
+#X connect 8 0 0 0;
+#X connect 8 0 9 0;

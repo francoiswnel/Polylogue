@@ -1,4 +1,4 @@
-#N canvas 47 130 1188 690 10;
+#N canvas 45 354 1188 690 10;
 #X declare -path CG-Pd-Library-Local/sequencer;
 #X declare -path CG-Pd-Library-Local/externals;
 #X declare -path CG-Pd-Library-Local/metronome;
