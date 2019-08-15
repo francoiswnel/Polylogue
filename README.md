@@ -44,7 +44,7 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread](h
 2. VCO 2
 
     1. Wave: 0. Saw, 1. Triangle, 2. Square, 3. Cosine, 4. Noise.
-    2. Shape: Square wave duty cycle.
+    2. Shape: Transforms the basic wave shape.
     3. Octave: Offset from VCO 1, -2 to +2 octaves.
     4. Detune: Continuous pitch adjustment.
 
