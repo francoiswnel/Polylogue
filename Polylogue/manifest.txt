@@ -1,14 +1,14 @@
 1ba874141380f45bca595c71a4e996073d724f5b  Polylogue/adsr.pd
 aa36ab4314cd5f59356dcc6d4a4414bc1527e237  Polylogue/knobs.txt
-184e595b10c119a1946b4f0de6074a8f66d826ae  Polylogue/deploy.sh
+24c94e9ce5bd49c5cff6761384f84903e68249e0  Polylogue/deploy.sh
 09960dd41ca6c0fd905a0e67bf2db0107e94e027  Polylogue/cosine.pd
 a333de1951ab01bfd1770e019a6ad1c82903f709  Polylogue/noise.pd
 4a451fb4702edf9092a4f62de3abd102085e0d99  Polylogue/libcjson.so
-0f9fd49681e0eb2bf18941e225fec6113739f978  Polylogue/main.pd
+dadd819d76b19e1cf703816a585634841cc63f8c  Polylogue/main.pd
 c9d393ad0eef5989bfd5ea404635390f21547649  Polylogue/vcf.pd
 9c381a7966b99a5b293361bd880eef97f2a1e07a  Polylogue/vco1.pd
 2d80f1e5134c2f089295f6b193d186272364edcd  Polylogue/libmec-utils.so
-eccd86d84049c5d3c10cc2eec82ba50e7fdbd81c  Polylogue/lfo.pd
+c8ef5bc02cad00d02ac5877b36c821ae72fb6d58  Polylogue/lfo.pd
 1c26c96e6520862a8ab8d12d26c5b392310c22f7  Polylogue/triangle.pd
 bcdb5963f2aee7d92b384c2593121aca35a68a01  Polylogue/main4.pd
 08519f78a2f6b03ae583a0e192830b0356aa2d21  Polylogue/mixer.pd
@@ -30,6 +30,7 @@ c282631626fe6384c60d395cdf09963d2ab00e63  Polylogue/CG-Pd-Library-Local/sequence
 e7eb22a3719853cefa6f28aab5a082f84c56039c  Polylogue/CG-Pd-Library-Local/sequencer/print-line5.pd
 568beb58d159be7da1c144ace79a524088520d53  Polylogue/CG-Pd-Library-Local/sequencer/shortcut-mute-f.pd
 1693e07e233d1ae374f81966b99232180fffe1c1  Polylogue/CG-Pd-Library-Local/sequencer/sc-module.pd
+e83ca9fa43c76d12b4829d53f41ff34ac37b45d8  Polylogue/CG-Pd-Library-Local/LICENSE.txt
 bd8db638450191883feb342d04c05ef760774b94  Polylogue/CG-Pd-Library-Local/externals/chord-muter.pd
 998628d47b4efe4b20097a28b07a08ad520885f1  Polylogue/CG-Pd-Library-Local/externals/note-tracker.pd
 39d6ae0f89b866486b7894a47240cb873cbf0187  Polylogue/CG-Pd-Library-Local/externals/chord-prob-old.pd

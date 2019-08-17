@@ -20,7 +20,7 @@ Polylogue is a polyphonic analogue synthesizer written in Pure Data for the [Cri
 
 Download the latest release:
 
-* [Patch Storage](https://patchstorage.com/polylogue/)
+* [Patchstorage](https://patchstorage.com/polylogue/)
 * [GitHub](https://github.com/francoiswnel/Polylogue/releases/latest)
 
 Installation instructions:
