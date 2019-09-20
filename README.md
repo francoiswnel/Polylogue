@@ -94,7 +94,7 @@ Please leave feedback or ask questions in the [Critter & Guitari forum thread](h
 
 * KontrolModule by [Mark Harris aka TheTechnobear](https://github.com/TheTechnobear).
 * Sequencer 3 by Critter & Guitari.
-* ADSR from the [clds](https://patchstorage.com/clds/) port by Mark Harris.
+* ADSR from the [brds](https://patchstorage.com/brds/) port by Mark Harris.
 
 # Pure Data Screenshots
 
